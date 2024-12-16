@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3df423bd64aa" tvg-name="BAN vs WI VIP" tvg-country="IN" tvg-logo="https://i.postimg.cc/w3YqsQyg/Picsart-24-12-16-22-57-40-572.png" tvg-chno="3df423bd64aa" group-title="", BTV National
-https://shounwifi.net/api/auto/tengo/live.php?id=3df423bd64aa&e=.m3u8
+#EXTINF:-1 tvg-id="3df423bd64aa" tvg-name="AH IPTV LIVE" tvg-country="IN" tvg-logo="https://i.postimg.cc/w3YqsQyg/Picsart-24-12-16-22-57-40-572.png" tvg-chno="3df423bd64aa" group-title="", BTV National
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="9cc74d11cfd0" tvg-name="TOFFEE Sports VIP" tvg-country="IN" tvg-logo="https://i.postimg.cc/pLb1XZCm/Picsart-24-12-16-22-59-12-836.png" tvg-chno="9cc74d11cfd0" group-title="", BTV World
-https://shounwifi.net/api/auto/tengo/live.php?id=9cc74d11cfd0&e=.m3u8
-#EXTINF:-1 tvg-id="9cc74d11cfd0" tvg-name="TOFFEE Sports VIP" tvg-country="IN" tvg-logo="https://i.postimg.cc/65nx0T1G/Picsart-24-12-16-22-58-20-526.png" tvg-chno="9cc74d11cfd0" group-title="", BTV Chattogram
-https://shounwifi.net/api/auto/tengo/live.php?id=9cc74d11cfd0&e=.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="9cc74d11cfd0" tvg-name="AH IPTV LIVE" tvg-country="IN" tvg-logo="https://i.postimg.cc/65nx0T1G/Picsart-24-12-16-22-58-20-526.png" tvg-chno="9cc74d11cfd0" group-title="", BTV Chattogram
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
