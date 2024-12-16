@@ -1,28 +1,5 @@
 #EXTM3U
-#playlist by @yuvraj824
-#for testing only
-
-#EXTINF:-1 tvg-id="121" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png" group-title="Lifestyle",Tata Play Fitness
-#EXTVLCOPT:http-user-agent=yuvi bhai
-https://tp.yg048.workers.dev/ch/121.m3u8
-#EXTINF:-1 tvg-id="618" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png" group-title="Lifestyle",Tata Play Beauty
-#EXTVLCOPT:http-user-agent=yuvi bhai
-https://tp.yg048.workers.dev/ch/618.m3u8
-#EXTINF:-1 tvg-id="641" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png" group-title="Lifestyle",Tata Play Cooking
-#EXTVLCOPT:http-user-agent=yuvi bhai
-https://tp.yg048.workers.dev/ch/641.m3u8
-#EXTINF:-1 tvg-id="959" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67692-kwmxxw08-v2/imageContent-67692-kwmxxw08-m3.png" group-title="Entertainment",Tata Play Romance
-#EXTVLCOPT:http-user-agent=yuvi bhai
-https://tp.yg048.workers.dev/ch/959.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",STAR Plus HD
-#EXTVLCOPT:http-user-agent=yuvi bhai
-https://tp.yg048.workers.dev/ch/8.m3u8
-#EXTINF:-1 tvg-id="244" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Entertainment",Star Bharat HD
-#EXTVLCOPT:http-user-agent=yuvi bhai
-https://tp.yg048.workers.dev/ch/244.m3u8
-#EXTINF:-1 tvg-id="15" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Entertainment",SET HD
-#EXTVLCOPT:http-user-agent=yuvi bhai
-https://tp.yg048.workers.dev/ch/15.m3u8
-#EXTINF:-1 tvg-id="556" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" group-title="Entertainment",SET
-#EXTVLCOPT:http-user-agent=yuvi bhai
-https://tp.yg048.workers.dev/ch/556.m3u8
+#EXTINF:-1 tvg-id="3df423bd64aa" tvg-name="BAN vs WI VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_881150001732192574.png" tvg-chno="3df423bd64aa" group-title="", BAN vs WI VIP
+https://shounwifi.net/api/auto/tengo/live.php?id=3df423bd64aa&e=.m3u8
+#EXTINF:-1 tvg-id="9cc74d11cfd0" tvg-name="TOFFEE Sports VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" tvg-chno="9cc74d11cfd0" group-title="", TOFFEE Sports VIP
+https://shounwifi.net/api/auto/tengo/live.php?id=9cc74d11cfd0&e=.m3u8
